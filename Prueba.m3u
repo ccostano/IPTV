@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, MTV Dance
+#EXTSIZE: Big
+#EXTBG: #11609e
+http://example.com/stream1
+#EXTINF:-1,MTV Hits
+#EXTSIZE: Medium
+#EXTBG: #046f55
+http://example.com/stream1
+#EXTINF:-1,?????? 24
+#EXTSIZE: Medium
+#EXTBG: #046f55
+dtv://cabel:11/dvb/8
+#EXTINF:-1,?????? ?????
+#EXTSIZE: Medium
+#EXTBG: #046f55
+dtv://cabel:11/dvb/2
+#EXTINF:-1, MTV Live HD
+#EXTSIZE: Small
+http://example.com/stream3
+#EXTINF:-1,MTV Rocks
+#EXTSIZE: Small
+http://example.com/stream4
